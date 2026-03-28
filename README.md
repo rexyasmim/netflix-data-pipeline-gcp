@@ -86,3 +86,9 @@ O projeto segue uma arquitetura moderna de dados:
 ## 📌 Observações
 
 Este projeto foi desenvolvido com fins educacionais, simulando um ambiente real de engenharia de dados em cloud.
+
+## 📚 Referência
+
+Projeto inspirado em um tutorial do YouTube (canal Vbluuiza), utilizado como base para aprendizado e aprofundamento em pipeline de dados com GCP.
+
+O projeto foi reproduzido com foco no entendimento completo das etapas, incluindo ingestão, transformação, modelagem e análise dos dados.
