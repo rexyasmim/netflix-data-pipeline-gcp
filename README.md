@@ -52,9 +52,16 @@ O projeto segue uma arquitetura moderna de dados:
 
 ## 🖼️ Dashboard
 
-![Avaliações dos Filmes por Avaliação e Média de Avaliação](images/dashboard1.png)
-![ Análise de Popularidade vs Avaliação para Filmes e Gêneros](images/dashboard2.png)
-![Heatmap de Avaliações ao longo do Tempo](images/dashboard3.png)
+## 🖼️ Dashboard
+
+### 📊 Avaliações dos Filmes por Avaliação e Média de Avaliação
+![Dashboard](images/dashboard1.png)
+
+### 📈 Análise de Popularidade vs Avaliação para Filmes e Gêneros
+![Dashboard](images/dashboard2.png)
+
+### 🔥 Heatmap de Avaliações ao longo do Tempo
+![Dashboard](images/dashboard3.png)
 
 ---
 
